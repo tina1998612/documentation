@@ -105,11 +105,11 @@ The contract will gather this information to feed the Black Scholes contract. Co
 
 #### 2. Calculate total price for trade amount
 
-For more details, check [Trade](https://app.gitbook.com/@pods-finance-1/s/teste/~/drafts/-MNMwlOe0wakQKTZXaXb/options-amm-overview/optionamm/functions/trade).
+For more details, check [Trade](https://docs.pods.finance/options-amm-overview/optionamm/functions/trade).
 
 #### 3. Calculate new price based on inventory balance after the trade
 
-For more details, check [Trade](https://app.gitbook.com/@pods-finance-1/s/teste/~/drafts/-MNMwlOe0wakQKTZXaXb/options-amm-overview/optionamm/functions/trade).
+For more details, check [Trade](https://docs.pods.finance/options-amm-overview/optionamm/functions/trade).
 
 #### 4. Guess new sigma \($$IV_i$$\) and store it in the contract for the next trade.
 
